@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "e6e29dbf91050c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "609754da8fa21859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc049971e7a1846",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12dcde750415bb49",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ba48bfc5b0d9984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada9f0e0c3f78417",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a30d3c48bd9dd5d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e5f8bbfcbd23da5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d1c69480df7e016",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e1ca474249f39d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f287a629afd8fd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "db86f26b5fa998e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "139a18b1fa7e6af9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9b09413a51aa0b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5cc049971e7a1846",
+  "lastOpenFiles": [
+    "Modules/Boundary_Dynamics.md",
+    "Modules/Security_Infrastructure.md",
+    "Modules/ARCHE_Master.md",
+    "Drops/Drop_20250611_Summary.md",
+    "Formulas/Equation_20250611H_Coherence_Divergence.md",
+    "Untitled 1",
+    "Vault_State.md",
+    "2025-06-11.md",
+    "Concepts/Concept_20250611H_Narrative_Manifold.md",
+    "Concepts/Concept_20250611I_CollapseAsStructuralHole.md",
+    "Concepts/Concept_20250611L_Reflexive_Convergence.md",
+    "Concepts/Concept_20250611K_CatastropheSurface.md",
+    "Concepts/Concept_20250611J_FractalTension.md",
+    "Concepts/Concept_20250611H_Semantic_Coherence_Divergence.md",
+    "README.md",
+    "Untitled 1.canvas",
+    "Concepts/Concept_20250611H_BoundaryBreach.md",
+    "Untitled.canvas",
+    "Contracts/Contract_20250611H_coherence_alarm.md",
+    "Modules/ARCHE/Market_Applications.md",
+    "Modules/ARCHE/Hybrid_AI_Modeling.md",
+    "Modules/ARCHE/Calculus_Of_Constructions.md",
+    "Modules/ARCHE/Boundary_Dynamics.md",
+    "Modules/ARCHE/Interface_And_Ops.md",
+    "Modules/ARCHE/Security_Infrastructure.md",
+    "Modules/ARCHE/Reflexive_Learning.md",
+    "Modules/ARCHE/Symbolic_GTGN_Bridge.md",
+    "Modules/ARCHE/GTGN_Core.md",
+    "Modules/ARCHE/Narrative_Engine.md",
+    "Modules/ARCHE",
+    "Untitled"
+  ]
+}
